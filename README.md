@@ -4,5 +4,5 @@ This project focuses on newspaper segmentation using a multiclass model to disti
 
 ## Result
 <p align="center">
-  <img src="Screenshot 2024-10-11 143813.png" alt="Centered Image" width="400">
+  <img src="result.png" alt="Centered Image" width="400">
 </p>
